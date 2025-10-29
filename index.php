@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 session_start();
-
+//MODIFICAREA
 class ProdusAlimentatie
 {
     private string $denumire;
@@ -531,3 +531,4 @@ function produseCuReducereMax(array $produse): array {
   </script>
 </body>
 </html>
+
