@@ -1,0 +1,10 @@
+Telemea de vacă;Lacto SRL;lactate;350;280;39.90;15
+Iaurt natur 3.5%;AlbaDairy;lactate;140;65;4.80;0
+Mușchi file;CarnePlus;mezeluri;300;240;59.50;20
+Castraveți proaspeți;AgroVerde;legume;500;15;12.00;5
+Roșii prunișoare;AgroVerde;legume;450;20;18.50;10
+Pâine integrală 500g;Panifco;panificație;500;230;11.00;0
+Cașcaval clasic;Lacto SRL;lactate;200;330;28.90;25
+Lapte 2.5%;AlbaDairy;lactate;1000;50;18.00;0
+Crenvurști pui;CarnePlus;mezeluri;250;260;21.90;30
+Mere Golden;FructeMold;fructe;1000;52;24.00;0
